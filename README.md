@@ -2,7 +2,7 @@ My approach would be to organize your existing work and complete one chunk at a 
 
 Organizing all at once would not work for me.  My approach would be to find all the stuff for one section, then write that section and move on to the next.
 
-- I'd begin with the Theoretical Framework.  You've got a lot written here and that is something you're really into. 
+- I'd begin with the Theoretical Framework.  You've got a lot written here and that is something you seem to be really into. 
   - gather and bin the existing texts, diagrams and/or figures into the two subtopics. Prune any text that doesn't fit explicitly into one of those two subtopics. 
   - review, refine existing text
   - complete anything missing.
@@ -10,15 +10,17 @@ Organizing all at once would not work for me.  My approach would be to find all 
    - gather and bin the existing texts, diagrams and/or figures into the four sub-topics. Prune any text that doesn't fit explicitly into one of those four subtopics. 
   - review, refine existing drafts
   - complete anything that's missing.
-- My progression would then be Results, then Discussion.  
+- My progression would then be Results, then Discussion. Everything you have in hand or have already thought through. 
+- I'd take a breather with the Conclusion.  You've got that just about done, then circle back to the Introduction.  Which for me, would be a slog.  Having everything else done would keep me motivated to knock out the last part.
+- Lastly, I would have it proofread, edited, and formatted.  I'd probably spend a few $$ and get this done by someone on Upwork.
 
 Use a prompt like this with your existing text to help you:
-> Take this existing text and organize into the four subtopics of the Methodology section.  Identify things that do not belong
+> Take this existing text and organize into the four subtopics of the Methodology section.  Identify things that do not belong.
 Scroll down a bit, and you can see an example from your draft:  [https://chat.openai.com/share/6ba11db0-45e1-4d33-a5f6-5de6841ae946]
 
 The important part is having your whole outline in context, and I would also have your title and abstract somewhere near the beginning of your context window.
 
-
+This is absolutely achievable.  And given that you said you have a year's worth of dev-ops tasks, I wouldn't prioritize "OT" over this work.  That suggests to me a bunch of non-crisis, regular work without any blockers or show-stoppers that need to be resolved and subsequently superceding your Ph.D. work. 
 
 
 ## Title
